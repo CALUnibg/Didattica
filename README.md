@@ -1,2 +1,3 @@
 # Didattica
-Materiale per gli studenti dei corsi di automatica dell'Università degli Studi di Bergamo
+Materiale per gli studenti dei corsi di automatica dell'Università degli Studi di Bergamo:
+* Controlli Automatici: https://cal.unibg.it/courses/controlli-automatici/
